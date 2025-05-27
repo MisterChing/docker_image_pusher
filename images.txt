@@ -7,3 +7,5 @@
 
 
 --platform=linux/arm64 dockerskr/php_dev
+--platform=linux/arm64 youshandefeiyang/allinone
+
