@@ -7,6 +7,12 @@
 
 
 --platform=linux/arm64 dockerskr/php_dev
+--platform=linux/arm64 dockerskr/debian12-base
+--platform=linux/amd64 dockerskr/debian12-base
+--platform=linux/arm64 dockerskr/debian11-base
+--platform=linux/amd64 dockerskr/debian11-base
+--platform=linux/arm64 dockerskr/gnmr
+--platform=linux/amd64 dockerskr/gnmr
 --platform=linux/arm64 youshandefeiyang/allinone
 --platform=linux/amd64 youshandefeiyang/allinone
 
